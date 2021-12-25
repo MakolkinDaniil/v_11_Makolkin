@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">11-Makolkin</string>
+    <string name="company_name">"Приют "Надежда"</string>
+    <string name="take">Кого ты себе хочешь взять?</string>
+    <string name="category">Выбери одну категорию питомца</string>
+    <string name="name">ᅠᅠᅠВведите свое имя</string>
+    <string name="phone">ᅠᅠᅠВведите свой номер телефона</string>
+    <string name="contact">Заполните данные, мы с вами свяжемся</string>
+    <string name="info">Информация</string>
+    <string name="zvonok">Позвоните нам</string>
+    <string name="barsik">Барсик</string>
+    <string name="smes">Смесь британского кота.</string>
+    <string name="age">Возраст - 4 месяца.</string>
+    <string name="cats">Кошки</string>
+    <string name="dogs">Собаки</string>
+    <string name="parrots">Попугаи</string>
+    <string name="lapki2">Лапки</string>
+    <string name="hamsters">Хомяки</string>
+    <string name="twitter">twitter</string>
+    <string name="twitter2">twitter2</string>
+    <string name="facebook">facebook</string>
+    <string name="facebook2">facebook2</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="whatsapp2">whatsapp2</string>
+    <string name="instagram">instagram</string>
+    <string name="instagram2">instagram2</string>
+    <string name="arrow">arrow"</string>
+    <string name="company">Приют "Надежда"</string>
+    <string name="string_company">"Приют "Надежда"</string>
+    <string name="privacy_policy">Согласен(-а) с условиями использования и политикой конфидециальности</string>
+    <string name="lapki3">lapki2</string>
+    <string name="zvonok2">Позвонить нам</string>
+    <string name="zabrat">Забрать к себе</string>
+    <string name="result">Показать результаты</string>
+</resources>
